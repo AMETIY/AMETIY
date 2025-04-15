@@ -1,4 +1,4 @@
-<img src = "./assets/Let's Connect.jpg">
+<img src = "./assets/Let's Connect.jpg" alt = "Amanuel Araya" height="220" >
 <h1 style="color: #61DAFB;"> 👋 Hi there, I'm Amanuel! </h1>
 
 🚧 **Civil Engineer turned Software Developer**  
