@@ -1,4 +1,4 @@
-<img src = "./Let's Connect.jpg">
+<img src = "./assets/Let's Connect.jpg">
 # 👋 Hi there, I'm Amanuel!
 
 🚧 **Civil Engineer turned Software Developer**  
