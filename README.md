@@ -1,5 +1,5 @@
 <img src = "./assets/Let's Connect.jpg">
-# 👋 Hi there, I'm Amanuel!
+<h1 style="color: #61DAFB;"> 👋 Hi there, I'm Amanuel! </h1>
 
 🚧 **Civil Engineer turned Software Developer**  
 🛠️ Passionately building my Full-Stack Development skills — one line of code at a time.
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white" />
 </p>
+
 ---
 
 ## 💼 Who Am I?
