@@ -33,7 +33,7 @@ I'm a **former Civil Engineer** now transitioning into the exciting world of **S
 ## 📚 What I’m Working On
 
 - 🛒 **Apple Clone** using React 
-- 🍽️ **Netflix App** using React 
+- 🍽️ **Netflix App** using React :https://netflix-clone-2025-gold.vercel.app/
 - 💬 Daily JS,DSA, React + Node.js practice projects
 
 
