@@ -2,12 +2,12 @@
 
 🚧 **I am a Full Stack Developer, AI & Machine Learning Enthusiast**  
 ### Passionately building Full-Stack Projects and Continuously Learning and interested in real-world Machine learning problems. 
-🔭 I’m currently working on Python in a goal to learn Machine Learning.  
+🔭 I’m currently Shipping Personal Projects on Python in a goal to learn Machine Learning.  
 👯 I’m open to collaborate, Contribute to Open Source Projects and work on ML and Fintech projects.  
-💬 Ask me about anything, I am happy to help  
+💬Ask me anything — sharing knowledge is the best way to grow together.
 📫 How to reach me: amanuelwubneh908 [at] gmail [dot] com.  
 😄 Pronouns: he/him  
-⚡ Fun fact: “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” - Uncle Bob (Robert C. Martin)
+⚡ Fun fact: “Progress is built one smart move at a time.”
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
