@@ -1,8 +1,14 @@
 <img src = "./assets/Let's Connect.jpg" alt = "Amanuel Araya">
 <h1 style="color: #61DAFB;"> 👋 Hi there, I'm Amanuel! </h1>
 
-🚧 **Civil Engineer turned Software Developer**  
-🛠️ Passionately building my Full-Stack Development skills — one line of code at a time.
+🚧 **I am a Full Stack Developer and AI & Machine Enthusiast**  
+### Passionately building Full-Stack Projects and Continuously Learning and interested in real-world Machine learning problems. 
+🔭 I’m currently working on Python in a goal to learn Machine Learning.  
+👯 I’m open to collaborate and work on ML and Fintech projects.  
+💬 Ask me about anything, I am happy to help  
+📫 How to reach me: amanuelwubneh908 [at] gmail [dot] com.  
+😄 Pronouns: he/him  
+⚡ Fun fact: “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” - Uncle Bob (Robert C. Martin)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,28 +20,31 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/API%20Development-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
-
-## 💼 Who Am I?
-
-I'm a **former Civil Engineer** now transitioning into the exciting world of **Software Development**. With a strong foundation in **HTML, CSS, Bootstrap, JavaScript**, I'm actively sharpening my skills in:
-
-- ⚛️ React (Frontend Framework)
-- 🌐 Node.js (Backend with Express)
-- 🗄️ MySQL (Relational Databases)
-- 🔁 Full-Stack App Development
 
 ---
 
 ## 📚 What I’m Working On
 
-- 🛒 **Apple Clone** using React 
-- 🍽️ **Netflix App** using React :https://netflix-clone-2025-gold.vercel.app/
-- 💬 Daily JS,DSA, React + Node.js practice projects
-
+- Learning Python, AI/ML  
+- Current Project I am Working On: 
+- ✅Text Adventure game (use classes like Player, Enemy, Room) Using Python
 
 ---
 
@@ -49,9 +58,6 @@ I'm a **former Civil Engineer** now transitioning into the exciting world of **S
 
 ## 💬 Let's Connect
 
-- 📧 Email: amanuelaraya908@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/amanuel-wubneh-816606309](https://linkedin.com/in/amanuel-wubneh-816606309)
-- 🖥️ Portfolio: *Coming Soon*
-
-
-
+- 📧 Email: amanuelaraya908@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/amanuel-wubneh-816606309](https://linkedin.com/in/amanuel-wubneh-816606309)  
+- 🖥️ Portfolio: [amanuelwubneh.com](https://amanuelwubneh.com)
