@@ -1,6 +1,6 @@
 <h1 style="color: #61DAFB;"> 👋 Hi there, I'm Amanuel! </h1>
 
-🚧 **I am a Full Stack Developer and AI & Machine Enthusiast**  
+🚧 **I am a Full Stack Developer and AI & Machine Learning Enthusiast**  
 ### Passionately building Full-Stack Projects and Continuously Learning and interested in real-world Machine learning problems. 
 🔭 I’m currently working on Python in a goal to learn Machine Learning.  
 👯 I’m open to collaborate, Contribute to Open Source Projects and work on ML and Fintech projects.  
