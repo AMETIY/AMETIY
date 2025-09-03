@@ -4,7 +4,7 @@
 🚧 **I am a Full Stack Developer and AI & Machine Enthusiast**  
 ### Passionately building Full-Stack Projects and Continuously Learning and interested in real-world Machine learning problems. 
 🔭 I’m currently working on Python in a goal to learn Machine Learning.  
-👯 I’m open to collaborate and work on ML and Fintech projects.  
+👯 I’m open to collaborate, Contribute to Open Source Projects and work on ML and Fintech projects.  
 💬 Ask me about anything, I am happy to help  
 📫 How to reach me: amanuelwubneh908 [at] gmail [dot] com.  
 😄 Pronouns: he/him  
